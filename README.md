@@ -27,11 +27,28 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+CIRCUIT DIGRAM,TABULATION,MODEL GRPH:
+
+LINE REGULATION:
+
+<img width="899" height="465" alt="WhatsApp Image 2026-05-28 at 11 54 13 AM (1)" src="https://github.com/user-attachments/assets/78c9f616-5150-462f-bdd4-ccd3f3c189b6" />
+
+<img width="899" height="923" alt="WhatsApp Image 2026-05-28 at 11 16 27 AM" src="https://github.com/user-attachments/assets/e7679e3d-9d7a-499f-91d9-6d9c64471f31" />
+
+<img width="1005" height="568" alt="image" src="https://github.com/user-attachments/assets/ec552ba8-c965-497d-ba3d-e0480cf7a328" />
+
+LOAD REGULATION:
+
+<img width="899" height="434" alt="WhatsApp Image 2026-05-28 at 11 54 13 AM" src="https://github.com/user-attachments/assets/fa6573d0-02ac-49f6-92cb-7b4db1f5c5c9" />
+
+<img width="899" height="870" alt="WhatsApp Image 2026-05-28 at 11 17 00 AM" src="https://github.com/user-attachments/assets/08a9d720-12d1-477a-8576-8207a5acc1ab" />
+<img width="993" height="522" alt="image" src="https://github.com/user-attachments/assets/7d433a8f-43dc-40b6-8860-4ffc58585ac8" />
+
 
 V-I & REGULATION CHARACTERISTICS:
+
+<img width="1370" height="967" alt="WhatsApp Image 2026-05-28 at 11 20 02 AM" src="https://github.com/user-attachments/assets/88c3c37f-575c-4230-8182-3f056966192c" />
 
 PRECAUTIONS:
 
@@ -39,5 +56,7 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
 RESULT:
+
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
